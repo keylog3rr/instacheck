@@ -1,5 +1,7 @@
 # InstaChecker
-Cuenta con varias opciones para tu instagram.
+Bot de instagram creado por zqys.
+
+Cuenta con opciones para tu instagram.
 
 
 ## Como instalarlo.
