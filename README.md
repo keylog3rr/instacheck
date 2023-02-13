@@ -10,8 +10,10 @@ Cuenta con opciones para tu instagram.
 git clone https://github.com/r3ans0mwar3/instacheck.git
 
 cd instacheck
-
-python instachecker.py
+ 
+pip install -r requirements.txt
+ 
+python3 instachecker.py
 
 
 Disfrute de esta herramienta.
